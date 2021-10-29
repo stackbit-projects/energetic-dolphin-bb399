@@ -38,7 +38,7 @@
                 "showIcon": true,
                 "icon": "twitter",
                 "iconPosition": "left",
-                "style": "secondary",
+                "style": "link",
                 "elementId": "",
                 "type": "Button"
             }

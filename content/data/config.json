@@ -36,7 +36,7 @@
                 "altText": "Contact Us",
                 "url": "/contact_us",
                 "showIcon": true,
-                "icon": "arrowLeft",
+                "icon": "twitter",
                 "iconPosition": "right",
                 "style": "secondary",
                 "elementId": "",

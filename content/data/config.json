@@ -34,7 +34,7 @@
             {
                 "label": "Contact Us",
                 "altText": "Contact Us",
-                "url": "/",
+                "url": "/contact_us",
                 "showIcon": false,
                 "icon": "arrowLeft",
                 "iconPosition": "right",

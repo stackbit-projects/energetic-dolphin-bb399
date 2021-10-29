@@ -9,7 +9,7 @@
         "isTitleVisible": true,
         "logo": {
             "type": "ImageBlock",
-            "url": "/images/nextdotjs.svg",
+            "url": "/images/tailwindcss.svg",
             "altText": "Logo"
         },
         "primaryLinks": [

@@ -44,7 +44,7 @@
             },
             {
                 "label": "About",
-                "altText": "Learn more",
+                "altText": "About",
                 "url": "/",
                 "showIcon": false,
                 "icon": "arrowLeft",
